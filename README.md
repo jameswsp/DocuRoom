@@ -1,5 +1,5 @@
 ---
-description: This is DocuRoom User Guid...
+description: This is DocuRoom User Guid
 ---
 
 # Welcome
